@@ -1,4 +1,4 @@
-import sun.applet.Main;
+package JavaApplet;
 
 import java.awt.*;
 
